@@ -102,3 +102,5 @@ do{
     } 
 }
 while (type != 3)
+
+console.log("github.com coba")
